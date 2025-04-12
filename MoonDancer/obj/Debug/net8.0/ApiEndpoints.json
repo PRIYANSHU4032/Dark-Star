@@ -1,0 +1,116 @@
+[
+  {
+    "ContainingType": "MoonDancer.Controllers.MasterModuleController",
+    "Method": "ModuleSyncer",
+    "RelativePath": "api/MasterModule/Module-Master",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "excelpath",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoonDancer.Controllers.ProcessSyncController",
+    "Method": "SyncProcess",
+    "RelativePath": "api/ProcessSync/sync",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "searchString",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "pivotColumn",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "module",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "submodule",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "processType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "parent_id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoonDancer.Controllers.ReferenceIDController",
+    "Method": "ModuleSyncer",
+    "RelativePath": "api/ReferenceID/Refernece_ID-Syncer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "excelpath",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoonDancer.Controllers.SheetSyncerController",
+    "Method": "ExtractTables",
+    "RelativePath": "api/SheetSyncer/SheetSyncer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filePath",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "module",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "submodule",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "parent_id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "pivotcolumn",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sheetname",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,90 @@
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\appsettings.Development.json
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\appsettings.json
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\MoonDancer.exe
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\MoonDancer.deps.json
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\MoonDancer.runtimeconfig.json
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\MoonDancer.dll
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\MoonDancer.pdb
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\EPPlus.dll
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\EPPlus.Interfaces.dll
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\MoonDancer.csproj.AssemblyReference.cache
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\MoonDancer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\MoonDancer.AssemblyInfoInputs.cache
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\MoonDancer.AssemblyInfo.cs
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\MoonDancer.csproj.CoreCompileInputs.cache
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\MoonDancer.MvcApplicationPartsAssemblyInfo.cs
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\MoonDancer.MvcApplicationPartsAssemblyInfo.cache
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\MoonDancer.sourcelink.json
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\staticwebassets.build.json
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\staticwebassets.development.json
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\staticwebassets\msbuild.MoonDancer.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\staticwebassets\msbuild.build.MoonDancer.props
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MoonDancer.props
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MoonDancer.props
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\scopedcss\bundle\MoonDancer.styles.css
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\MoonDancer.csproj.CopyComplete
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\MoonDancer.dll
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\refint\MoonDancer.dll
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\MoonDancer.pdb
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\MoonDancer.genruntimeconfig.cache
+E:\Discovery\OpKey_Evolve_UI\Discovery Utilities\MoonDancer\MoonDancer\obj\Debug\net8.0\ref\MoonDancer.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\appsettings.json
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\MoonDancer.exe
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\MoonDancer.deps.json
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\MoonDancer.runtimeconfig.json
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\MoonDancer.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\MoonDancer.pdb
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\EPPlus.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\MoonDancer.csproj.AssemblyReference.cache
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\MoonDancer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\MoonDancer.AssemblyInfoInputs.cache
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\MoonDancer.AssemblyInfo.cs
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\MoonDancer.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\MoonDancer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\MoonDancer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\MoonDancer.sourcelink.json
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\staticwebassets\msbuild.MoonDancer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\staticwebassets\msbuild.build.MoonDancer.props
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MoonDancer.props
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MoonDancer.props
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\scopedcss\bundle\MoonDancer.styles.css
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\MoonDancer.csproj.Up2Date
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\MoonDancer.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\refint\MoonDancer.dll
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\MoonDancer.pdb
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\MoonDancer.genruntimeconfig.cache
+C:\Users\priya\OneDrive\Documents\MoonDANCER\Dark-Star\MoonDancer\obj\Debug\net8.0\ref\MoonDancer.dll

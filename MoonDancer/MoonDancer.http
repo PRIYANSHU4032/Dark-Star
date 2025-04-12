@@ -1,0 +1,6 @@
+@MoonDancer_HostAddress = http://localhost:5131
+
+GET {{MoonDancer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
